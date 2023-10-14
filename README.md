@@ -8,3 +8,6 @@ https://sabe09.itch.io/attack-of-the-goobers
 GingerBill - Creator of the Odin language​ https://odin-lang.org/
 
 GrafxKid - Created sprites https://grafxkid.itch.io/​
+
+# Video Link
+https://youtu.be/UcQpfkHqsZk
